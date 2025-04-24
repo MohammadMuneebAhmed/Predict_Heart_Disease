@@ -14,7 +14,6 @@ Technologies Used
 
 
    The model predicts whether a patient has a high or low risk of heart disease based on the input features provided. It uses a pre-trained machine learning model (likely a classifier) to make this prediction.
-Dataset Used: Provide details about the dataset.
 
 
 Setup Instructions
